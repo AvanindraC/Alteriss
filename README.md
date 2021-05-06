@@ -90,16 +90,16 @@ Replace 'username' with your home user name, and replace the directory with your
 
 ## Developer Tools-
 
-#### Python 3.8.8
+#### Python 3.7.9
 
-#### Linux-64 OS
+#### Windows-10-64 OS
 
-#### Visual Studio Code Text Editor
+#### Thonny IDE
 
 <br>
 
 ## Credits
 
 *Images-*
-    space.png provided by techwithtim()
-    Crazy - Patrick Patrikios.mp3 provided by Patrick Patrikios from Youtube Audio Libraryss
+    space.png provided by techwithtim (https://github.com/techwithtim/)
+    Crazy - Patrick Patrikios.mp3 provided by Patrick Patrikios from Youtube Audio Library

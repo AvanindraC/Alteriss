@@ -1,7 +1,7 @@
 # Alteriss
 #### A project made in PyGame
 
-You all have surely heard of *Tetris*, the mega-successful nostalgic game. I knew a little pygame and thought of making a game in Python. This game's inspired from *Tetris* (Which is my favourite video game(Don't laugh at me))
+You all have surely heard of **Tetris**, the mega-successful nostalgic game. I knew a little pygame and thought of making a game in Python. This game's inspired from **Tetris** (Which is my favourite video game(Don't laugh at me))
 
 
 <br>
@@ -92,7 +92,7 @@ Replace 'username' with your home user name, and replace the directory with your
 
 #### Python 3.7.9
 
-#### Windows-10-64 OS
+#### Windows-10-64 bit OS
 
 #### Thonny IDE
 
@@ -101,5 +101,5 @@ Replace 'username' with your home user name, and replace the directory with your
 ## Credits
 
 *Images-*
-    space.png provided by techwithtim (https://github.com/techwithtim/)
+    space.png provided by [Tech with Tim](https://github.com/techwithtim/)
     Crazy - Patrick Patrikios.mp3 provided by Patrick Patrikios from Youtube Audio Library

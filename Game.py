@@ -414,6 +414,6 @@ Controls: LEFT, RIGHT KEYS TO MOVE, UP TO CHANGE''', 18, (255, 255, 255), win)
 
 
 win = pygame.display.set_mode((s_width, s_height), RESIZABLE, 32)
-pygame.display.set_caption('Tetris')
+pygame.display.set_caption('Alteriss')
 
 main_menu()  # start game

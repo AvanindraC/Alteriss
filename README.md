@@ -64,22 +64,7 @@ cd location; pip3 install pygame==2.0.1
 
 - Now you can run the python file in a code editor ([VS Code](https://code.visualstudio.org), [Sublime Text 3 ](https://sublimetext.com/3), [Thonny](https://thonny.org), [PyCharm](https://jetbrains.com/pycharm) etc.)
 
-<br>
 
-## Usage
-
-### Linux-
-
-```
-cd /home/username/Desktop/Folder
-python3 game.py
-```
-
-Replace 'username' with your home user name, and replace the directory with your current directory
-
-- A start menu will popup
-
-<br>
 
 
 ## License
